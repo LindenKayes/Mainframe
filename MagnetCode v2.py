@@ -159,6 +159,3 @@ while True:
         Strong(enbBB)
     if gy > -40 and gy < 40:  #if mostly stable, keep mostly stable / reset to weak
         Weak()
-        
-        
-    
